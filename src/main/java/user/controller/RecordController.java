@@ -22,7 +22,7 @@ public class RecordController {
 
 	@Autowired
 	public RecordController(IRecordService recordservice) {
-		//888888
+		//888888999
 		this.recordservice = recordservice;
 	}
 	
